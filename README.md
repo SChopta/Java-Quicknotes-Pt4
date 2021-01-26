@@ -1,5 +1,3 @@
-# Java-Quicknotes-Pt4
-Getters and Return Values
 //GETTERS AND RETURN VALUES
 //2 ways: Follow A and B for 1st way
 //STEP 1 and 2 for 2nd way
